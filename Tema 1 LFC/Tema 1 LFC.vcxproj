@@ -24,6 +24,7 @@
     <ProjectGuid>{dcb3e658-d951-4f4e-8ecf-d05ac820dfd6}</ProjectGuid>
     <RootNamespace>Tema1LFC</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>DFA</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
